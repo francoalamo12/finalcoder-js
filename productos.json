@@ -1,0 +1,148 @@
+{
+    "productos": [
+        {
+            "id": "per-hom-01",
+            "detalles": {
+                "producto": "producto 01",
+                "descripcion": "perfume-hombre-01",
+                "precio": 1000,
+                "img": "./multimedia/img-perfume-hombre-uno.webp"
+            }
+        },
+        {
+            "id": "per-hom-02",
+            "detalles": {
+                "producto": "producto 02",
+                "descripcion": "perfume-hombre-02",
+                "precio": 1000,
+                "img": "./multimedia/img-perfume-hombre-dos.webp"
+            }
+        },
+        {
+            "id": "per-hom-03",
+            "detalles": {
+                "producto": "producto 03",
+                "descripcion": "perfume-hombre-03",
+                "precio": 1000,
+                "img": "./multimedia/img-perfume-hombre-tres.webp"
+            }
+        },
+        {
+            "id": "per-hom-04",
+            "detalles": {
+                "producto": "producto 04",
+                "descripcion": "perfume-hombre-04",
+                "precio": 1000,
+                "img": "./multimedia/img-perfume-hombre-cuatro.webp"
+            }
+        },
+        {
+            "id": "per-muj-01",
+            "detalles": {
+                "producto": "producto 05",
+                "descripcion": "perfume-mujer-01",
+                "precio": 1000,
+                "img": "./multimedia/img-perfume-mujer-uno.webp"
+            }
+        },
+        {
+            "id": "per-muj-02",
+            "detalles": {
+                "producto": "producto 06",
+                "descripcion": "perfume-mujer-02",
+                "precio": 1000,
+                "img": "./multimedia/img-perfume-mujer-dos.webp"
+            }
+        },
+        {
+            "id": "per-muj-03",
+            "detalles": {
+                "producto": "producto 07",
+                "descripcion": "perfume-mujer-03",
+                "precio": 1000,
+                "img": "./multimedia/img-perfume-mujer-tres.webp"
+            }
+        },
+        {
+            "id": "per-muj-04",
+            "detalles": {
+                "producto": "producto 08",
+                "descripcion": "perfume-mujer-04",
+                "precio": 1000,
+                "img": "./multimedia/img-perfume-mujer-cuatro.webp"
+            }
+        },
+        {
+            "id": "agua-01",
+            "detalles": {
+                "producto": "producto 09",
+                "descripcion": "agua-micelar-01",
+                "precio": 250,
+                "img": "./multimedia/img-agua-uno.webp"
+            }
+        },
+        {
+            "id": "agua-02",
+            "detalles": {
+                "producto": "producto 10",
+                "descripcion": "agua-micelar-02",
+                "precio": 250,
+                "img": "./multimedia/img-agua-dos.webp"
+            }
+        },
+        {
+            "id": "agua-03",
+            "detalles": {
+                "producto": "producto 11",
+                "descripcion": "agua-micelar-03",
+                "precio": 250,
+                "img": "./multimedia/img-agua-tres.webp"
+            }
+        },
+        {
+            "id": "agua-04",
+            "detalles": {
+                "producto": "producto 12",
+                "descripcion": "agua-micelar-04",
+                "precio": 250,
+                "img": "./multimedia/img-agua-cuatro.webp"
+            }
+        },
+        {
+            "id": "base-01",
+            "detalles": {
+                "producto": "producto 13",
+                "descripcion": "base-01",
+                "precio": 500,
+                "img": "./multimedia/img-base-uno.webp"
+            }
+        },
+        {
+            "id": "base-02",
+            "detalles": {
+                "producto": "producto 14",
+                "descripcion": "base-02",
+                "precio": 500,
+                "img": "./multimedia/img-base-dos.webp"
+            }
+        },
+        {
+            "id": "base-03",
+            "detalles": {
+                "producto": "producto 15",
+                "descripcion": "base-03",
+                "precio": 500,
+                "img": "./multimedia/img-base-tres.webp"
+            }
+        },
+        {
+            "id": "base-04",
+            "detalles": {
+                "producto": "producto 16",
+                "descripcion": "base-04",
+                "precio": 500,
+                "img": "./multimedia/img-base-cuatro.webp"
+            }
+        }
+    ]
+}
